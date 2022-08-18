@@ -1,4 +1,4 @@
-docker login -u="narenpergu" -p="Narpergu@98"
+CMD docker login -u="narenpergu" -p="Narpergu@98"
 FROM openjdk:8-jdk-alpine
 VOLUME /tmp
 EXPOSE 8081
