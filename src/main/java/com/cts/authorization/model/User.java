@@ -17,7 +17,6 @@ import lombok.NoArgsConstructor;
  *
  */
 
-@Getter
 @Entity
 @Table(name = "user_credentials")
 public class User {

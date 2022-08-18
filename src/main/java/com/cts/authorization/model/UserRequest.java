@@ -17,8 +17,6 @@ import lombok.Setter;
  * @author 893846
  *
  */
-@Setter
-@Getter
 @Component
 public class UserRequest {
 
